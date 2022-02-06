@@ -9,4 +9,11 @@
                 </div>
                 <br>
             </div>
+            <div class="video_card">
+                <h1>Message From <b><i>Travel Station</i></b>
+                <br>
+                <audio  controls>
+                    <source src="audio/Welcome.mp3" type="audio/mp3">
+                </audio>
+            </div>
 </section>
