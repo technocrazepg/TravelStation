@@ -8,7 +8,7 @@
                 <br>
                 <p>5 days-6 nights<br><del>$2300 /-</del> $2000 /-</p>
                 <br>
-                <button><a href="sample.pdf" target="_blank">View details (PDF)</a></button>
+                <a href="sample.pdf" target="_blank"><button>View details (PDF)</button></a>
             </div>
             <div class="pkgitem">
                 <img src="images/packages/pkg2.jpg" alt="pkg1" />
@@ -17,7 +17,7 @@
                 <br>
                 <p>5 days-6 nights<br><del>$2400 /-</del> $2100 /-</p>
                 <br>
-                <button><a href="sample.pdf" target="_blank">View details (PDF)</a></button>
+                <a href="sample.pdf" target="_blank"><button>View details (PDF)</button></a>
             </div>
             <div class="pkgitem">
                 <img src="images/packages/pkg3.jpg" alt="pkg1" />
@@ -26,7 +26,7 @@
                 <br>
                 <p>5 days-6 nights<br><del>$3300 /-</del> $3000 /-</p>
                 <br>
-                <button><a href="sample.pdf" target="_blank">View details (PDF)</a></button>
+                <a href="sample.pdf" target="_blank"><button>View details (PDF)</button></a>
             </div>
 </div>
 </section>

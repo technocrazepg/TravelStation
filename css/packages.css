@@ -34,7 +34,7 @@
 .packages .pkgitem p{
     color: rgb(71, 68, 68);
 }
-.packages .pkgitem button{
+.packages .pkgitem a {
     background-color: rgb(77, 74, 74);
     color: white;
     text-align: center;
@@ -43,16 +43,18 @@
     cursor: pointer;
     width: 100%;
     padding: 8px 0px;
-    font-weight: 700;
-    font-size: 20px;
     border: none;
 }
-.packages .pkgitem button:hover{
+.packages .pkgitem a:hover{
     background-color: rgb(39, 37, 37);
 }
-.packages .pkgitem button a{
-    text-decoration: none;
+.packages .pkgitem a button{
+    background-color: transparent;
+    border: none;
     color: white;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
 }
 
 /* tab */
@@ -92,7 +94,7 @@
         height: 250px;
         border-radius: 50%;
     }
-    .packages .pkgitem button{
+    .packages .pkgitem a button{
         font-size: 1.2em;
     }
 }
