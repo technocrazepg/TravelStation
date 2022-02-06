@@ -19,8 +19,8 @@
             width: 50px;
             height: 50px;
             position: fixed;
-            right: 13px;
-            bottom: 13px;
+            right: 20px;
+            bottom: 20px;
             cursor: pointer;
             border: none;
             text-align: center;
