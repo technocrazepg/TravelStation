@@ -64,4 +64,10 @@
         width: 50%;
         font-size: 2em;
     }
+    .planning .details label{
+        font-size: 1.2em;
+    }
+    .planning .details h1{
+        font-size: 2em;
+    }
 }
