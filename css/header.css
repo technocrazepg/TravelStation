@@ -139,7 +139,7 @@ nav .about{
         width: 100%;
         margin: 0;
         justify-content: center;
-        /* font-size: 2em; */
+        font-size: 1.3em;
     }
     nav  .navbrand a img{
         width: 70%;
@@ -147,7 +147,7 @@ nav .about{
     }
     nav .navbar .navitem{
         margin: 25px;
-        /* font-size: 2em; */
+        font-size: 1.5em;
         font-weight: 800;
         height: 5vh;
     }
