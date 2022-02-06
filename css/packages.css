@@ -40,7 +40,6 @@
     text-align: center;
     text-justify: justify;
     border-radius: 5px;
-    height: 40px;
     cursor: pointer;
     width: 100%;
     padding: 8px 0px;
@@ -50,6 +49,10 @@
 }
 .packages .pkgitem button:hover{
     background-color: rgb(39, 37, 37);
+}
+.packages .pkgitem button a{
+    text-decoration: none;
+    color: white;
 }
 
 /* tab */
@@ -90,7 +93,6 @@
         border-radius: 50%;
     }
     .packages .pkgitem button{
-        font-size: 1.5em;
-        height: 3vh;
+        font-size: 1.2em;
     }
 }
