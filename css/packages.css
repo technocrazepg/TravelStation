@@ -91,6 +91,6 @@
     }
     .packages .pkgitem button{
         font-size: 1.5em;
-        height: 55px;
+        height: 10vh;
     }
 }
