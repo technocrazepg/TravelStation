@@ -10,9 +10,6 @@
         <link rel="stylesheet" type="text/css" href="css/videos.css">
     </head>
     <style>
-        *{
-            font-size: 2em;
-        }
         .top{
             background-color: rgb(241, 63, 92); 
             color: white; 
