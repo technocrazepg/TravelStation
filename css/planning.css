@@ -30,6 +30,7 @@
     border: none;
     width: 100%;
     padding: 13px 8px;
+    background-color: white;
 }
 .planning .details div select:focus, .planning .details div input:focus{
     outline: none;
