@@ -32,6 +32,14 @@
             background-color: rgb(247, 9, 48);
             transform: scale(1.15);
         }
+        /* mobile */
+        @media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
+            .top{
+                width: 120px;
+                height: 120px;
+                font-size: 2em;
+            }
+        }
     </style>
     <script>
         document.getElementById('playVid').onclick = function () {
