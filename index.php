@@ -31,7 +31,7 @@
             box-shadow: 0 0 5px 4px gray;
             background-color: rgb(247, 9, 48);
             transform: scale(1.15);
-            transition: 0.2ss;
+            transition: 0.2s;
         }
         /* mobile */
         @media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
