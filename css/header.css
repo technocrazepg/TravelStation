@@ -140,6 +140,7 @@ nav .about{
     }
     nav  .navbrand a img{
         width: 80%;
+        height: 15vh;
         height: 100px;
     }
     nav .navbar .navitem{
