@@ -89,4 +89,7 @@
         height: 250px;
         border-radius: 50%;
     }
+    .packages .pkgitem button{
+        font-size: 2em;
+    }
 }
