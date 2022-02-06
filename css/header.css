@@ -132,14 +132,14 @@ nav .about{
         align-items: center;
         width: 100%;
         padding: 0px;
-        font-size: 2em;
+        /* font-size: 2em; */
     }
     nav .navbrand{
         font-size: 30px;
         width: 100%;
         margin: 0;
         justify-content: center;
-        font-size: 2em;
+        /* font-size: 2em; */
     }
     nav  .navbrand a img{
         width: 70%;
@@ -147,7 +147,7 @@ nav .about{
     }
     nav .navbar .navitem{
         margin: 25px;
-        font-size: 2em;
+        /* font-size: 2em; */
         font-weight: 800;
         height: 5vh;
     }
