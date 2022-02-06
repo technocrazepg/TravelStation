@@ -82,6 +82,7 @@
     .packages .pkgitem{
         padding: 2%;
         width: 80%;
+        font-size: 2em;
     }
     .packages .pkgitem img{
         width: 250px;

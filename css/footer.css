@@ -29,5 +29,6 @@
 @media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
     .footer div{
         width: 80%;
+        font-size: 2em;
     }
 }

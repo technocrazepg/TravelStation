@@ -55,6 +55,7 @@
 @media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
     .planning .details div{
         width: 100%;
+        font-size: 2em;
     }
     .planning .details div select, .planning .details div input{
         width: 100%;
