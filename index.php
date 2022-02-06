@@ -11,7 +11,7 @@
     </head>
     <style>
         *{
-            font-size: 25em;
+            font-size: 10em;
         }
         .top{
             background-color: rgb(241, 63, 92); 
