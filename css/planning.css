@@ -1,0 +1,65 @@
+.planning{
+    background-color: pink;
+    padding: 2%;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.details{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.planning .details h1{
+    font-size: 30px;
+    color: rgb(43, 42, 42);
+    font-weight: 900;
+}
+.planning .details label{
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(44, 44, 44)
+}
+.planning .details div{
+    width: 50%;
+}
+.planning .details div select, .planning .details div input{
+    height: 40px;
+    border-radius: 5px;
+    margin: 13px 0px;
+    border: none;
+    width: 100%;
+    padding: 13px 8px;
+}
+.planning .details div select:focus, .planning .details div input:focus{
+    outline: none;
+}
+.planning .details button{
+    height: 40px;
+    margin: 13px 0px;
+    border: none;
+    width: 25%;
+    color: rgb(39, 37, 37);
+    color: white;
+    background-color: rgb(41, 40, 40);
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+.planning .details button:hover{
+    box-shadow: 0px 2px 5px 8px rgb(150, 147, 147);
+}
+
+/* mobile */
+@media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
+    .planning .details div{
+        width: 100%;
+    }
+    .planning .details div select, .planning .details div input{
+        width: 100%;
+    }
+    .planning .details button{
+        width: 50%;
+    }
+}

@@ -1,0 +1,33 @@
+.footer{
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    flex-wrap: wrap;
+    font-family: 'Trebuchet MS', sans-serif;
+    gap: 50px;
+}
+.footer div{
+    line-height: 1.5;
+    width: 20%;
+}
+.footer div p{
+    list-style: none;
+    color: white;
+}
+.footer div p:hover{
+    color: gray;
+    cursor: pointer;
+}
+/* tabs */
+@media  only screen and (min-device-width: 650px) and (max-device-width: 1100px), only screen and (min-width: 650px) and (max-width: 1100px){
+    .footer div{
+        width: 40%;
+    }
+}
+/* mobile */
+@media only screen and (max-device-width: 650px), only screen and (max-width: 650px){
+    .footer div{
+        width: 80%;
+    }
+}
