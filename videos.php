@@ -9,8 +9,8 @@
                 </div>
                 <br>
             </div>
-            <div class="video_card">
-                <h1>Message From <b><i>Travel Station</i></b>
+            <div class="audio-msg">
+                <h1>Message From <b><i style="color: orange">Travel Station</i></b></h1>
                 <br>
                 <audio  controls>
                     <source src="audio/Welcome.mp3" type="audio/mp3">
